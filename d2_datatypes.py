@@ -7,12 +7,12 @@ print(23)
 print(type(23))
 print(type(True))
 
-# list => can change values 
+# list => can change values // array
 fruiuts=["Ram","Hari","Shyam"]
 print(fruiuts)
 print(type(fruiuts))
 
-# tuples ==>cannot change value
+# tuples ==>cannot change value //
 numbers=(2,3,4,5,6)
 print(numbers)
 print(type(numbers))

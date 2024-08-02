@@ -4,7 +4,7 @@ rock="rock"
 paper="paper"
 scissors="scissor"
 
-user_choice=int(input("What do you choose? Type 0 for rock, 1 for paper and 2 for scissors\n"))
+user_choice=int(input("What do you choose? Type 0 for rock, 1 for paper and 2 for scissors : \n"))
 if user_choice == 0:
     user_choice = rock
     print(f"You chose {user_choice}")

@@ -51,8 +51,8 @@ def showName(ramukaka):
 result=showName('lucky')
 print(result)
 
-# add two numbers using function
+# add two numbers using function with arguments
 def addNumbers(n1,n2):
   return n1+n2
-sum=addNumbers(2,3)
+sum=addNumbers(2,3)#arguments
 print(sum)

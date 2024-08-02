@@ -1,4 +1,4 @@
-# strings="   My name is Ramesh Rawat   "
+strings="   My name is Ramesh Rawat   "
 # print(len(strings))
 
 # # # indexing
@@ -19,9 +19,9 @@
 # # print(strings[:9])
 # # print(strings[5:10])
 
-# # Negative Slicing
-# # print(strings[-1])
-# # print(strings[-9:-1])
+# Negative Slicing
+print(strings[-1])
+print(strings[-9:-1])
 
 # # Predefined methods
 # #upper,lower,split,find,replace,strip
