@@ -7,6 +7,11 @@ print(23)
 print(type(23))
 print(type(True))
 
+
+# Python List ↔ JavaScript Array
+# Python Tuple ↔ JavaScript Array (with immutability considerations)
+# Python Dictionary ↔ JavaScript Object
+
 # list => can change values // array
 fruiuts=["Ram","Hari","Shyam"]
 print(fruiuts)

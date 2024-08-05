@@ -20,20 +20,20 @@ strings="   My name is Ramesh Rawat   "
 # # print(strings[5:10])
 
 # Negative Slicing
-print(strings[-1])
-print(strings[-9:-1])
+# print(strings[-1])
+# print(strings[-9:-1])
 
 # # Predefined methods
 # #upper,lower,split,find,replace,strip
 
-# # print(strings.upper())
-# # print(strings.lower())
-# # print(strings.split())
-# # print(strings.find("nam"))
-# # print(strings.replace('Ramesh','Suresh'))
-# # print(strings.strip())
+print(strings.upper())
+print(strings.lower())
+# print(strings.split())
+print(strings.find("nam"))
+print(strings.replace('Ramesh','Suresh'))
+print(strings.strip())
 
 # names=['ram','hari','shyam']
 # newName=' '.join(names)
 
-lakhan='My name is Lakhan .'
+# lakhan='My name is Lakhan .'
