@@ -14,9 +14,9 @@
 # print(res4)
 
 
-vowel=['a','e','i','o','u','A','E','I','O','U']
+# vowel=['a','e','i','o','u','A','E','I','O','U']
 
-res5 =[f'{x} is wowel' for x in 'Ramesh'  ]
-print(res5)
+# res5 =[f'{x} is vowel' for x in 'Ramesh'  ]
+# print(res5)
 
 

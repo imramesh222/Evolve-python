@@ -26,12 +26,12 @@ strings="   My name is Ramesh Rawat   "
 # # Predefined methods
 # #upper,lower,split,find,replace,strip
 
-print(strings.upper())
-print(strings.lower())
-# print(strings.split())
-print(strings.find("nam"))
-print(strings.replace('Ramesh','Suresh'))
-print(strings.strip())
+# print(strings.upper())
+# print(strings.lower())
+# # print(strings.split())
+# print(strings.find("nam"))
+# print(strings.replace('Ramesh','Suresh'))
+# print(strings.strip())
 
 # names=['ram','hari','shyam']
 # newName=' '.join(names)
