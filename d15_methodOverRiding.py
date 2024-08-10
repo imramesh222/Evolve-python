@@ -12,3 +12,7 @@ class Person:
 p1=Person()
 p1.fname('Ramesh')
 p1.fullname('Ramesh','Rawat')
+
+# define method overriding
+
+
