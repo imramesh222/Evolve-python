@@ -40,7 +40,7 @@ from numpy import random
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-arr6=[1,2,3,4]
+arr6=[1,4,9,2]
 
 plt.plot(arr6,marker="x")
 plt.xlabel("Plotting array elements")
