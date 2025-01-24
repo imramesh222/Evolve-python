@@ -78,5 +78,59 @@
 # print(len(lst))
 # print(lst.remove(5) )
 
-text = "Python is a great language"
-print(text.split())
+# text = "Python is a great language"
+# print(text.split())
+
+
+# slicing
+
+# lst = [10, 20, 30, 40, 50, 60]
+
+# Basic slicing
+# print(lst[1:4])         # [20, 30, 40] (from index 1 to 3)
+# print(lst[:3])          # [10, 20, 30] (first 3 elements)
+# print(lst[3:])          # [40, 50, 60] (from index 3 to the end)
+
+# # Using step
+# print(lst[::2])         # [10, 30, 50] (every second element)
+# print(lst[1::2])        # [20, 40, 60] (every second element starting from index 1)
+
+# # Negative slicing
+# print(lst[-3:])         # [40, 50, 60] (last 3 elements)
+# print(lst[:-3])         # [10, 20, 30] (everything except the last 3 elements)
+# print(lst[::-1])        # [60, 50, 40, 30, 20, 10] (reversed list)
+
+fruits=["ram","hari","shyam","banana"]
+# print(fruits.index("banana"))
+
+# fruits.append("holi")
+# print(fruits)
+
+# fruits.insert(2,"crime")
+# print(fruits)
+
+# print(fruits.pop())
+
+# # fruits.remove("hari")
+# fruits.sort()
+# # print(fruits)
+# print(fruits.count("ram"))
+# fruits.reverse()
+
+
+# print(fruits)
+
+# nam = "my name is Ramesh"
+# nam = nam.split()
+
+# nam.reverse()
+# result = " ".join(nam)
+# print(result)
+
+nam="my name is ramesh"
+nam=nam.split()
+nam.reverse()
+res=" ".join(nam)
+print(res)
+
+print(type(res))
