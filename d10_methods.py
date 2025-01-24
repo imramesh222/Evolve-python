@@ -63,3 +63,20 @@
 
 
 # 6. Write a program that filters out all empty strings from a list of strings using filter.
+# name="ramesh"
+# print(name.capitalize())
+# print(name.upper())
+# print(name.split(','))
+
+# lst = [3, 1, 4, 1, 5]
+# lst.append(9)          
+# lst.sort()             
+# lst.insert(2, 7)       
+# lst.pop()              
+         
+# lst.reverse()          
+# print(len(lst))
+# print(lst.remove(5) )
+
+text = "Python is a great language"
+print(text.split())
